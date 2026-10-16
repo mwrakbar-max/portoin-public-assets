@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Haroon Rashidi">
+  <!-- The emblem: the HR monogram from The Card, cut bold enough to read at
+       16px, on a disc in the house red. The inner ring echoes the engraved
+       oval and simply disappears at favicon size. -->
+  <circle cx="32" cy="32" r="31" fill="#a50e17"/>
+  <circle cx="32" cy="32" r="27.5" fill="none" stroke="#ffffff" stroke-opacity="0.32" stroke-width="1.2"/>
+  <g fill="none" stroke="#ffffff" stroke-width="4.4" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M16.5 21v22M27.5 21v22M16.5 32h11"/>
+    <path d="M35 43V21h7.2a5.6 5.6 0 0 1 0 11.2H35"/>
+    <path d="m41.6 32.4 6.4 10.6"/>
+  </g>
+</svg>
